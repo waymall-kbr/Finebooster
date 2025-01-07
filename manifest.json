@@ -252,33 +252,38 @@
     "Servers":{
        "Official":[
           {
+             "Address": "node.hydra-host.ru",
+             "Port": 10006,
+             "Tags": ""
+          },
+      	  {
              "Address": "116.202.213.226",
              "Port": 10006,
              "Tags": ""
-          } 
-          
+          }
        ], 
        "Banned": [
-             "138.124.186.114",
-             "185.186.143.159",
-             "138.124.186.90",
-             "138.124.186.182",
-             "3.17.205.155",
-             "135.181.235.107",
-             "18.190.155.229",
-             "193.164.16.124",
-             "188.165.254.149",
-             "62.122.213.120",
-             "185.186.143.252",
-	     "185.189.255.74",
-             "185.174.136.147",
-             "46.174.52.237"
+             "",
+             "",
+             "",
+             "",
+             "",
+             "",
+             "",
+             "",
+             "",
+             "",
+             "",
+	     "",
+             "",
+             ""
          ]
     },
     "Metadata":{
        "LoadingScreens":[
           "https://files.facepunch.com/errn/1b0111b1/December22UpdateLoader.jpg",
-          "https://i.postimg.cc/Qd87fBmk/pvp-raid-01.jpg",
+          "https://i.postimg.cc/nhZR03kJ/rust-muzzlebrakeandboost-duo-01.jpg",
+           "https://i.postimg.cc/Qd87fBmk/pvp-raid-01.jpg",
           "https://i.postimg.cc/ZKrP7zSZ/patrolheli-01.jpg",
           "https://i.postimg.cc/rm3Gb8sy/scientists-trio-01.jpg",
           "https://i.postimg.cc/QVLBgCt5/tunnel-station-02.jpg",
@@ -295,6 +300,7 @@
           "https://i.postimg.cc/N0LgMYGw/doorcamp-01.jpg",
           "https://i.postimg.cc/HxVjfX8X/nvg-tactical-01.jpg",
           "https://i.postimg.cc/j2Snqm1w/trains-aboveground-01.jpg"
+          
        ],
        "BlockedServers":[
           "91.214.70.66",
