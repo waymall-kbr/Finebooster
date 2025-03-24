@@ -252,13 +252,13 @@
     "Servers":{
        "Official":[
           {
-             "Address": "node.hydra-host.ru",
-             "Port": 10006,
+             "Address": "194.87.209.73",
+             "Port": 35060,
              "Tags": ""
           },
       	  {
-             "Address": "116.202.213.226",
-             "Port": 10006,
+             "Address": "194.87.209.73",
+             "Port": 35050,
              "Tags": ""
           }
        ], 
